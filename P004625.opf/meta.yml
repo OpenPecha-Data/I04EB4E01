@@ -4,4 +4,29 @@ source_metadata:
   id: bdr:W22203
   title: གསུང་འབུམ། སྐལ་བཟང་ཐུབ་བསྟན་དབང་ཕྱུག
   author: ''
-  volumes: {}
+  volumes:
+    b27ba3ad649b4a5eb89e1754803732bb:
+      image_group_id: I5195
+      title: ''
+      volume_number: 1
+      total_pages: 1132
+    e9f17703a25a46b9b6ea9adbbcf7ec4b:
+      image_group_id: I5196
+      title: ''
+      volume_number: 2
+      total_pages: 1046
+    115e2c3ad0ef4fb7a27e79defde5c63a:
+      image_group_id: I5197
+      title: ''
+      volume_number: 3
+      total_pages: 652
+    6939816b07eb47948b2d4edaf7bf00b6:
+      image_group_id: I5198
+      title: ''
+      volume_number: 4
+      total_pages: 914
+    324fa0c5055f40c8894a7efc90900cdf:
+      image_group_id: I5199
+      title: ''
+      volume_number: 5
+      total_pages: 586
